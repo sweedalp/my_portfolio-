@@ -36,9 +36,16 @@ Feel free to fork this repository and make improvements! Pull requests are welco
 **License**
 This project is open-source and available under the MIT License.
 
+
+
+
+
 **Contact**
 For any inquiries, please reach out to me via email at sweedalpinto97@gmail.com.
 
 ![Screenshot (204)](https://github.com/sweedalp/my_portfolio-/assets/149352141/bbc2dd3a-c0b2-4ddc-8519-5bf33af83c7d)
+
+
+![image](https://github.com/sweedalp/my_portfolio-/assets/149352141/75f50068-f754-4bc8-98af-c25f311f4d7f)
 
 

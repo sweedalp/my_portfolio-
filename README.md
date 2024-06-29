@@ -21,11 +21,11 @@ JavaScript: For smooth scrolling navigation and enhancing user interactions.
 Usage
 To view the website locally, follow these steps:
 
-Clone the repository:
+**Clone the repository:**
 bash
-Copy code
+**Copy code**
 git clone https://github.com/yourusername/portfolio-website.git
-Navigate to the project directory:
+**Navigate to the project directory:**
 bash
 Copy code
 cd portfolio-website
@@ -33,9 +33,12 @@ Open index.html in your preferred web browser.
 Contributions
 Feel free to fork this repository and make improvements! Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-License
+**License**
 This project is open-source and available under the MIT License.
 
-Contact
+**Contact**
 For any inquiries, please reach out to me via email at sweedalpinto97@gmail.com.
+
+![Screenshot (204)](https://github.com/sweedalp/my_portfolio-/assets/149352141/bbc2dd3a-c0b2-4ddc-8519-5bf33af83c7d)
+
 
